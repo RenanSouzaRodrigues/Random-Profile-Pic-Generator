@@ -11,7 +11,8 @@ class ImageController
         try {
             $randInt = rand(0, Image::model()->getAmountOfImagens());
             $selectedImage = Image::model()->getImageFromRecords($randInt);
-            Powerframe::sendRestResponse(['img'=> $selectedImage], 200);
+            echo($selectedImage);
+            exit;
         } catch (Exception $e) {
             Powerframe::sendRestResponse(["error" => $e->getMessage()], 500);
         }

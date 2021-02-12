@@ -1,6 +1,6 @@
-# Ramdom Profile Pic Generator v1.0.1
+# Random Profile Pic Generator v1.0.1
 
-![Profile Pic Example](http://www.powerpush.com.br/rppg/pics/2.png)
+![Profile Pic Example](http://www.powerpush.com.br/rppg/api/v1/img)
 
 ### Description:
 
