@@ -1,6 +1,6 @@
 # Random Profile Pic Generator v1.0.1
 
-![Profile Pic Example](https://im2.ezgif.com/tmp/ezgif-2-13b58c2864a3.gif)
+![Profile Pic Example](http://powerpush.com.br/rppg/pics/2.png)
 
 ### Description:
 

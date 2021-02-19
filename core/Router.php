@@ -7,7 +7,7 @@ class Router
 {
     private static $routes = [
         'v1' => [
-            'img' => [
+            'generate' => [
                 'GET' => ['controller' => 'ImageController', 'action' => 'getRandomImage', 'parseBody' => false],
             ]
         ]
